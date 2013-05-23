@@ -1,0 +1,11 @@
+.gradle/
+.DS_Store
+.Trash
+.project
+.graddle
+build/
+bin/
+target/
+.svn/
+.classpath
+.settings/
